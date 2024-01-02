@@ -8,7 +8,7 @@ Mon expertise se situe dans les domaines suivants :
 ## Mes compétences
 
 
-![HTML5][<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />][HTML5]
 
           
 ## Projets
