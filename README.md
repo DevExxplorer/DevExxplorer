@@ -2,7 +2,8 @@
 
 ## À propos de moi
 
-Je suis Clément RAYMOND, un développeur web full stack passionné par la création d'expériences en ligne exceptionnelles. Mon expertise se situe dans les domaines suivants :
+Je suis Clément RAYMOND, un développeur web full stack passionné.
+Mon expertise se situe dans les domaines suivants :
 
 - HTML
 - CSS
@@ -15,20 +16,14 @@ Je suis Clément RAYMOND, un développeur web full stack passionné par la créa
 
 ## Projets
 
-Actuellement, je n'ai pas de projets à afficher ici, mais je mettrai à jour cette section dès que j'ajouterai mes réalisations.
-
 ## Centres d'intérêt
 
-En dehors du monde du développement, j'aime [mentionner ici vos centres d'intérêt en dehors de la programmation].
+En dehors du monde du développement, je pratique la course à pied et je suis finisher de plusieurs marathons et trails longues distances.
 
 ## Certifications et Formations
 
-[Incluez ici toute certification ou formation pertinente que vous souhaitez mettre en avant.]
-
 ## Contact
-
-Vous pouvez me suivre sur [Twitter](lien_twitter) et [LinkedIn](lien_linkedin) pour rester à jour avec mes activités.
 
 ---
 
-*Le code transforme des idées en réalité. - John Maeda*
+*"Le code, c'est comme un poème ; il transcende les langues et traverse les frontières, donnant vie à l'imagination à travers une syntaxe élégante."*
