@@ -15,7 +15,7 @@ Mon expertise se situe dans les domaines suivants :
 - NuxtJs
 ## Mes compétences
 
-<svg viewBox="0 0 128 128"></svg>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           
 ## Projets
 
