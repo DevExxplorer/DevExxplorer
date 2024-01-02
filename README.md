@@ -2,27 +2,43 @@
 
 ## À propos de moi
 
-Je suis Clément RAYMOND, un développeur web full stack passionné.
-Mon expertise se situe dans les domaines suivants :
+Je m'appelle Clément RAYMOND.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevExplorer)](https://github.com/anuraghazra/github-readme-stats)
+Je suis développeur web spécialisé en PHP, Javascript et Wordpress.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevExplorer&show_icons=true&theme=radical)
+
+## Mes expériences
+
+5 ans en tant que développeur web chez 36pixels.
+
+Mon gitLab chez 36pixels : https://gitlab.com/Clement-rmd
 
 ## Mes compétences
 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />][HTML5]
-
-          
 ## Projets
 
 ## Centres d'intérêt
 
-En dehors du monde du développement, je pratique la course à pied et je suis finisher de plusieurs marathons et trails longues distances.
-
+* Course à pied (Marathons, trails ...)
+* Badminton
+* Voyages
+* Gastronomies
+ 
 ## Certifications et Formations
+
+Diplômé de la formation "Développeur web junior" chez Openclassrooms
 
 ## Contact
 
----
+[Me contacter](mailto:contact@devexplorer.fr)
 
-*"Le code, c'est comme un poème ; il transcende les langues et traverse les frontières, donnant vie à l'imagination à travers une syntaxe élégante."*
