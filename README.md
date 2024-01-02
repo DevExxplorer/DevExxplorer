@@ -5,6 +5,8 @@
 Je suis Clément RAYMOND, un développeur web full stack passionné.
 Mon expertise se situe dans les domaines suivants :
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevExplorer)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Mes compétences
 
 
