@@ -13,7 +13,10 @@ Mon expertise se situe dans les domaines suivants :
 - Wordpress
 - VueJs
 - NuxtJs
+## Mes compétences
 
+<svg viewBox="0 0 128 128"></svg>
+          
 ## Projets
 
 ## Centres d'intérêt
