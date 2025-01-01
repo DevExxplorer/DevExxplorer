@@ -4,7 +4,7 @@
 
 Je m'appelle Clément RAYMOND.
 
-Je suis développeur web spécialisé en PHP, Javascript et Wordpress.
+Je suis développeur web spécialisé en PHP, Javascript et Wordpress et actuellement en formation Python/Django
 
 ## Mes expériences
 
