@@ -6,8 +6,6 @@ Je m'appelle Clément RAYMOND.
 
 Je suis développeur web spécialisé en PHP, Javascript et Wordpress.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevExplorer&show_icons=true&theme=radical)
-
 ## Mes expériences
 
 5 ans en tant que développeur web chez 36pixels.
